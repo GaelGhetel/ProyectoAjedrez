@@ -1,0 +1,6 @@
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\bin\Debug\EntidadAjedrez.dll
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\bin\Debug\EntidadAjedrez.pdb
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\obj\Debug\EntidadAjedrez.csproj.AssemblyReference.cache
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\obj\Debug\EntidadAjedrez.csproj.CoreCompileInputs.cache
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\obj\Debug\EntidadAjedrez.dll
+C:\Users\prado\source\repos\PresentacionAjedrez\EntidadAjedrez\obj\Debug\EntidadAjedrez.pdb

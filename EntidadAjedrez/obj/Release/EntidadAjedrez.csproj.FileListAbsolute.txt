@@ -1,0 +1,6 @@
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\bin\Release\EntidadAjedrez.dll
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\bin\Release\EntidadAjedrez.pdb
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\obj\Release\EntidadAjedrez.csproj.AssemblyReference.cache
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\obj\Release\EntidadAjedrez.csproj.CoreCompileInputs.cache
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\obj\Release\EntidadAjedrez.dll
+E:\universidad\Topicos\dos\dos\PresentacionAjedrez\PresentacionAjedrez\EntidadAjedrez\obj\Release\EntidadAjedrez.pdb
